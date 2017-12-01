@@ -1,9 +1,7 @@
-// change
-
-/* File:      histogram.c
+/* File:      main.c
  * Purpose:   Build a histogram from some random data
  * 
- * Compile:   gcc -g -Wall -o histogram histogram.c
+ * Compile:   gcc -g -Wall -o histogram main.c
  * Run:       ./histogram <bin_count> <min_meas> <max_meas> <data_count>
  *
  * Input:     None
